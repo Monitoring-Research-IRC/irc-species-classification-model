@@ -24,23 +24,23 @@ The intended processing workflow is:
 Camera Trap Images
         │
         ▼
-MegaDetector
-(Animal Detection)
+      AddaxAI
+─────────────────────────────────
+  • MegaDetector
+      ↓
+  Animal Detection
+
+  • IRC Species Classifier
+      ↓
+  Species Prediction
+
+  • Human Review
+      ↓
+  Verification
+─────────────────────────────────
         │
         ▼
-Cropped Animal Images
-        │
-        ▼
-IRC Species Classification Model
-        │
-        ▼
-Species Predictions
-        │
-        ▼
-AddaxAI (Review & Verification)
-        │
-        ▼
-Verified Wildlife Dataset
+ Final Wildlife Dataset
 ```
 
 ---
