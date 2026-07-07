@@ -18,6 +18,10 @@ Although optimized for Southern California wildlife communities, the model may a
 
 ## Workflow
 
+The preferred implementation of this model is through the AddaxAI platform. Within AddaxAI, camera trap images can be processed using MegaDetector to identify animals, followed by this species classification model to predict species identity. Users can then review and verify predictions before exporting a finalized dataset for analysis and reporting.
+
+While the model may also be used independently within custom machine learning workflows, integration with AddaxAI provides an accessible end-to-end solution for wildlife image processing.
+
 The intended processing workflow is:
 
 ```text
