@@ -177,7 +177,7 @@ Special thanks to:
 * The **Mega Efficient Wildlife Classifier (MEWC)** development team for providing an accessible and robust training framework for wildlife image classification.
 * The **MegaDetector** development team for advancing open-source wildlife object detection.
 * The **AddaxAI** development team for creating an accessible platform for camera trap image review and management.
-* The **Loyola Marymount University Business Analytics Capstone Team** for helping design the initial AI-assisted camera trap training workflow that informed development of this project.  We specifically would like to recognize Xi Chen, Michelle Shaffer, Minh Tran, Valentine Gulyas and their professor Gregory Lontok for their work creating the backbone that made this project possible.
+* The **Loyola Marymount University Business Analytics Capstone Team** for helping design the initial AI-assisted camera trap training workflow that informed development of this project.  We specifically would like to recognize Xi Chen, Michelle Shaffer, Minh Tran, Valentine Gulyas and professor Gregory Lontok for their work creating the backbone that made this project possible.
 
 ---
 
