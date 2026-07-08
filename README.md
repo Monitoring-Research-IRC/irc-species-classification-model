@@ -125,7 +125,7 @@ Performance was evaluated using a held-out test dataset consisting of **3,669 pr
 
 The model was trained using the **Mega Efficient Wildlife Classifier (MEWC)** framework.
 
-Training imagery consisted of wildlife camera trap photographs collected in Southern California by Irvine Ranch Conservancy and collaborating monitoring programs.
+Training imagery consisted of wildlife camera trap photographs collected in Southern California by Irvine Ranch Conservancy and from images shared on iNaturalist under Creative Commons licenses.  A complete list of photographs used for training, together with their licenses and attribution informaton is provided in ATTRIBUTIONS.csv.  We sincerely thank the iNaturalist community for making biodiversity observations available for research and conservation.  
 
 To protect sensitive locations, privacy, and data ownership agreements, the training imagery is **not included** in this repository.
 
@@ -163,7 +163,6 @@ This model is intended to support:
 * Camera trap image processing
 * Conservation research
 * Ecological monitoring
-* Volunteer-assisted image review
 
 Predictions should be reviewed by qualified personnel before being incorporated into scientific analyses or management decisions, particularly for sensitive or uncommon species.
 
@@ -202,7 +201,7 @@ Special thanks to:
 * The **Mega Efficient Wildlife Classifier (MEWC)** development team for providing an accessible and robust training framework for wildlife image classification.
 * The **MegaDetector** development team for advancing open-source wildlife object detection.
 * The **AddaxAI** development team for creating an accessible platform for camera trap image review and management.
-* The **Loyola Marymount University Business Analytics Capstone Team** for helping design the initial AI-assisted camera trap training workflow that informed development of this project.
+* The **Loyola Marymount University Business Analytics Capstone Team** for helping design the initial AI-assisted camera trap training workflow that informed development of this project.  We specifically would like to recognize Xi Chen, Michelle Shaffer, Minh Tran, Valentine Gulyas and their professor Gregory Lontok for their work creating the backbone that made this project possible.
 
 ---
 
