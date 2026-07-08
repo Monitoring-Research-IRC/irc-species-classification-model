@@ -12,7 +12,7 @@ Camera trap monitoring has become an essential tool for wildlife research and co
 
 This project provides a regional species classification model trained on Southern California wildlife. The model was developed to assist biologists, land managers, and conservation organizations by automating species identification while maintaining human oversight for quality assurance.
 
-Although optimized for Southern California wildlife communities, the model may also perform well in similar habitats throughout western North America.
+Although optimized for wildlife communities in Orange County, California, the model may also perform well in similar habitats throughout western North America.
 
 ---
 
