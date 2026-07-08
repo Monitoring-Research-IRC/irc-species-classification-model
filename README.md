@@ -131,30 +131,6 @@ To protect sensitive locations, privacy, and data ownership agreements, the trai
 
 ---
 
-## Repository Structure
-
-```text
-Species-Classification-Model/
-│
-├── model/
-│   ├── species_classifier.keras
-│   └── taxon_mapping.csv
-│
-├── docs/
-│   ├── training_summary.md
-│   ├── accuracy_metrics.md
-│   └── model_notes.md
-│
-├── examples/
-│   ├── example_inference.py
-│   └── sample_images/
-│
-├── README.md
-└── LICENSE
-```
-
----
-
 ## Intended Use
 
 This model is intended to support:
