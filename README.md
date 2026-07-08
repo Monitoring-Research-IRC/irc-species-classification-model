@@ -125,7 +125,7 @@ Performance was evaluated using a held-out test dataset consisting of **3,669 pr
 
 The model was trained using the **Mega Efficient Wildlife Classifier (MEWC)** framework.
 
-Training imagery consisted of wildlife camera trap photographs collected in Southern California by Irvine Ranch Conservancy and from images shared on iNaturalist under Creative Commons licenses.  A complete list of photographs used for training, together with their licenses and attribution informaton is provided in `inaturalist_attribution.xlsx`.  We sincerely thank the iNaturalist community for making biodiversity observations available for research and conservation.  
+Training imagery consisted of wildlife camera trap photographs collected in Southern California by Irvine Ranch Conservancy and from images shared on iNaturalist under Creative Commons licenses.  A complete list of iNaturalist photographs used for training, together with their licenses and attribution informaton is provided in `inaturalist_attribution.xlsx`.  We sincerely thank the iNaturalist community for making biodiversity observations available for research and conservation.  
 
 To protect sensitive locations, privacy, and data ownership agreements, the training imagery is **not included** in this repository.
 
