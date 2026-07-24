@@ -190,7 +190,7 @@ Special thanks to:
 
 If you use this model in publications, reports, or derivative work, please cite:
 
-> Irvine Ranch Conservancy. *Species Classification Model for Southern California Camera Trap Images.* GitHub Repository.
+> Irvine Ranch Conservancy (2026). *Species Classification Model for Southern California Camera Trap Images (Version 3.6)*. GitHub.
 
 ---
 
