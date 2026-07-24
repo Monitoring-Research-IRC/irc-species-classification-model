@@ -174,7 +174,7 @@ Irvine Ranch Conservancy gratefully acknowledges the many researchers, developer
 
 Special thanks to:
 
-* **OC Parks, The City of Irvine, and the City of Newport Beach** for supporting IRC's wildlife camera trap program and model development.
+* **OC Parks, City of Irvine, and the City of Newport Beach** for supporting IRC's wildlife camera trap program and model development.
 * The **Mega Efficient Wildlife Classifier (MEWC)** development team for providing an accessible and robust training framework for wildlife image classification.
 * The **MegaDetector** development team for advancing open-source wildlife object detection.
 * The **AddaxAI** development team for creating an accessible platform for camera trap image review and management.
