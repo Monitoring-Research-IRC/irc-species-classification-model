@@ -194,4 +194,6 @@ If you use this model in publications, reports, or derivative work, please cite:
 
 ## License
 
-This project is licensed under the **Apache License 2.0**.
+The IRC Species Classification Model is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). See the LICENSE file for the full license terms.
+
+This license applies to the trained model weights and associated model files distributed in this repository. Third-party training imagery is not distributed with the model and remains subject to its original licenses.
