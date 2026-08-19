@@ -56,7 +56,6 @@ Camera Trap Images
 * Trained using the Mega Efficient Wildlife Classifier (MEWC) pipeline
 * Designed for use following MegaDetector animal detections
 * Compatible with AddaxAI review workflows
-* Open-source under the Apache 2.0 License
 
 ---
 
