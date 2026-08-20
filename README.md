@@ -192,6 +192,7 @@ If you use this model in publications, reports, or derivative work, please cite:
 ---
 
 ## License
+Irvine Ranch Conservancy is making this model available to support nonprofit, conservation, research, and other noncommercial uses. Because the model was trained in part using third-party imagery made available under noncommercial creative licenses, IRC has chosen to restrict commercial use of the resulting model.
 
 The IRC Species Classification Model is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). See the LICENSE file for the full license terms.
 
